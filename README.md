@@ -1,1 +1,3 @@
-# A 9x9 Sudoku grid solver using Graph Coloring Algorithm.
+# Sudoku Solver GC
+
+A Sudoku Solver for 9x9 grids, using Graph Coloring algorithm.
